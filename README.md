@@ -24,6 +24,3 @@
 - [Obsidian 설정 개요](./obsidian-setup/step-00.md)
 - [Obsidian 구성](./obsidian-setup/step-01.md)
 - [Markdown 기초](./obsidian-setup/markdown-basics.md)
-
-### 🤖 [Claude](./claude)
-- [Claude Code Mac 설정](./claude/claude-code-mac.md)
